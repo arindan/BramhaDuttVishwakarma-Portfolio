@@ -26,13 +26,13 @@ export const data = [
   {
     "designation": "Postdoc",
     "name": "Pushkar Sharma",
-    "bio": "Hi, I have been a Postdoctoral Fellow at ICWaR, IISc, since November 2022. I completed my bachelor�s in Civil Engineering from SCET, Surat. Further, I did M.E. in Hydraulic Structures from MSU, Vadodara, and PhD from IIT Bombay. In my master's, I worked on Dam break analysis and flood plain map generation; in PhD, I worked on quantifying climate and catchment effects on streamflow using the Budyko framework. I like playing Table Tennis.     My research interests include hydraulic engineering and Budyko framework for estimation of evapotranspiration.",
+    "bio": "Hi, I have been a Postdoctoral Fellow at ICWaR, IISc, since November 2022. I completed my bachelor�s in Civil Engineering from SCET, Surat. Further, I did M.E. in Hydraulic Structures from MSU, Vadodara, and PhD from IIT Bombay. In my master's, I worked on Dam break analysis and flood plain map generation in PhD, I worked on quantifying climate and catchment effects on streamflow using the Budyko framework. I like playing Table Tennis.     My research interests include hydraulic engineering and Budyko framework for estimation of evapotranspiration.",
     "imageSrc": "./assets/images/team/pushkar-0f59f95a.JPG"
   },
   {
     "designation": "C V Raman postdoctoral fellow",
     "name": "Abhishek",
-    "bio": "I have a B. Tech (2017) and M. Tech (2019) in Civil Engineering and Groundwater Hydrology, respectively, from IIT Roorkee, and Ph.D. (2022) in Water Resources Engineering from TokyoTech, Japan. I work on the global and regional hydrological cycle, groundwater and sustainability, GRACE terrestrial water storage, remote sensing and machine learning methods, and identification of hydro-climatic extremes. To know more, please visit https://www.researchgate.net/profile/Abhishek-12. To have a chat, feel free to write to me at abhishekiit95&#64;gmail.com",
+    "bio": "I have a B. Tech (2017) and M. Tech (2019) in Civil Engineering and Groundwater Hydrology, respectively, from IIT Roorkee, and Ph.D. (2022) in Water Resources Engineering from TokyoTech, Japan. I work on the global and regional hydrological cycle, groundwater and sustainability, GRACE terrestrial water storage, remote sensing and machine learning methods, and identification of hydro-climatic extremes. To know more, please visit https://www.researchgate.net/profile/Abhishek-12. To have a chat, feel free to write to me at abhishekiit95&#64gmail.com",
     "imageSrc": "./assets/images/team/Photo_Abhishek.jpg"
   },
   {
@@ -52,5 +52,17 @@ export const data = [
     "name": "Retinder Kour",
     "bio": "I have a PhD in remote sensing from Birla Institute of Technology Mesra, Jharkhand and a master's in remote sensing and GIS from University of Jammu, J&K. For both my master and PhD thesis, I worked on snow cover dynamics and climate change impact on the hydrological regime of Chenab basin, western Himalayas. My research areas include snow/glacier dynamics and characterization using optical and thermal remote sensing datasets, future projections of climate variables using empirical‐statistical downscaling methods, and hydrological modelling. I enjoy painting in my spare time.",
     "imageSrc": "./assets/images/team/Retinder Kour.jpg"
+  },
+  {
+    "designation": "New Boy",
+    "name": "New",
+    "bio": "Hi",
+    "imageSrc": ""
+  },
+  {
+    "designation": "Prof",
+    "name": "New Prof",
+    "bio": "Hi",
+    "imageSrc": ""
   }
 ];
