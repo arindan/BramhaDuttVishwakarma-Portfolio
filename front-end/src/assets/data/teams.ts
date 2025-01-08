@@ -1,6 +1,6 @@
 export const data = [
   {
-    "designation": "Assistant Professor",
+    "designation": "Professor",
     "name": "Bramha DuttVishwakarma",
     "bio": "I have a bachelors degree in Electronics and Communication Engineering, a masters in Geomatics Engineering, and a PhD in Geodesy. In my masters thesis I worked on analyzing GRACE timeseries and in my PhD I developed data-driven methods to process level 2 GRACE data at catchment scale. I work with multiple Earth observation datasets to estimate various surface processes that are related to ongoing climate change. In my free time I like to play outdoor sports.",
     "imageSrc": "./assets/images/team/bdv_snowdonia (2).jpg"
@@ -38,7 +38,7 @@ export const data = [
   {
     "designation": "Project Associate",
     "name": "Vandana S",
-    "bio": "I have a bachelor's degree in Applied Electronics and Instrumentation Engineering, and I have a masters in Geoinformatics from TERISAS, New Delhi. At ICWaR, I am working on understanding the coastal sea level. I am mainly interested in the application of remote sensing in atmospheric and oceanographic sciences. I love to read books and sing in my free time. You can write to me at svandana&#64;iisc.ac.in",
+    "bio": "I have a bachelor's degree in Applied Electronics and Instrumentation Engineering, and I have a masters in Geoinformatics from TERISAS, New Delhi. At ICWaR, I am working on understanding the coastal sea level. I am mainly interested in the application of remote sensing in atmospheric and oceanographic sciences. I love to read books and sing in my free time. You can write to me at svandana&#64iisc.ac.in",
     "imageSrc": "./assets/images/team/Image.jpeg"
   },
   {
